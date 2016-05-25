@@ -1,0 +1,3 @@
+ChatApp using meteor. 
+To run the app, install meteor (https://www.meteor.com/install), and go through basic tutorial. Open command prompt, go the project directory and type in meteor.
+I am using Publish and subscribe to read data and meteor methods to write data. Github login enabled but chat not working with that. Still working on the UI and couple of bugs.

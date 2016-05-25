@@ -1,0 +1,4 @@
+ChatApp using meteor. 
+To run the app, install meteor (https://www.meteor.com/install), and go through basic tutorial. Open command prompt, go the project directory and type in meteor. User able to delete messages. Data following sequential consistency.
+I am using Publish and subscribe to read data and meteor methods to write data. Github login enabled but chat not working with that. Still working on that, and UI.
+Help from you guys always appreciated. If you have a suggestion or anything, feel free to write me at naman.gupta08@gmail.com
